@@ -1,2 +1,2 @@
 streamlit
-rembg==2.0.47
+rembg==2.0.48
